@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #07031d;
+  background: #010f24;
   overflow-y: auto;
 }
 #header .profile img {
@@ -290,7 +290,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #3a85ee;
 }
 .about .content ul {
   list-style: none;
@@ -336,7 +336,7 @@ section {
   line-height: 40px;
   display: block;
   font-weight: 700;
-  color: #050d18;
+  color: #4271b3;
   margin-left: 60px;
 }
 .facts .count-box p {
@@ -641,6 +641,9 @@ section {
   font-size: 14px;
 }
 
+.services{
+  text-align: justify;
+}
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/

@@ -450,7 +450,6 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
-  margin-bottom: 30px;
 }
 
 
@@ -955,4 +954,9 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+
+.card-design{
+  margin-bottom: 1370px;
 }

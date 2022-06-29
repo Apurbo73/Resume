@@ -959,6 +959,12 @@ section {
 }
 
 
-.card-design{
-  margin-bottom: 1800px;
+/* .card-design{
+  margin-bottom: 1000px;
+} */
+
+
+.image-design img{
+height: 100px;
+width: 50000px;
 }
